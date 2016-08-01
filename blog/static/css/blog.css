@@ -1,5 +1,5 @@
 body {
-    padding-left: 50px;
+    /*padding-left: 50px; */
     font-family: 'Aref Ruqaa', serif;
     font-size: 16pt;
 }
@@ -7,7 +7,7 @@ body {
 
 
 .page-header {
-    background-color: #DB395C;  /*  #ff9400;  */
+    background-color: #96113F;  /*  #ff9400;  */
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
